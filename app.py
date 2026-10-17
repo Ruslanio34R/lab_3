@@ -1,5 +1,5 @@
 
-def greet(name: str = "мир") -> str:
+def greet (name: str = "мир") -> str:
     return f"Привет, {name}!"
 
 
